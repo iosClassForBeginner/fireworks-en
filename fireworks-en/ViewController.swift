@@ -56,14 +56,14 @@ class ViewController: UIViewController
         risingCell.emissionRange = CGFloat.pi / 7
         risingCell.scale = 0.4
         risingCell.velocity = 100
-        risingCell.birthRate = 50;
-        risingCell.lifetime = 1.5;
-        risingCell.yAcceleration = 350;
-        risingCell.alphaSpeed = -0.7;
-        risingCell.scaleSpeed = -0.1;
-        risingCell.scaleRange = 0.1;
-        risingCell.beginTime = 0.01;
-        risingCell.duration = 0.7;
+        risingCell.birthRate = 50
+        risingCell.lifetime = 1.5
+        risingCell.yAcceleration = 350
+        risingCell.alphaSpeed = -0.7
+        risingCell.scaleSpeed = -0.1
+        risingCell.scaleRange = 0.1
+        risingCell.beginTime = 0.01
+        risingCell.duration = 0.7
         
         // The definition of a particle (apark animation)
         let sparkCell = CAEmitterCell()
