@@ -65,7 +65,7 @@ class ViewController: UIViewController
         risingCell.beginTime = 0.01
         risingCell.duration = 0.7
         
-        // The definition of a particle (apark animation)
+        // The definition of a particle (spark animation)
         let sparkCell = CAEmitterCell()
         sparkCell.contents = particleImage
         sparkCell.emissionRange = 2 * CGFloat.pi
