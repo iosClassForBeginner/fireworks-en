@@ -16,6 +16,7 @@ class ViewController: UIViewController
     {
         super.viewDidLoad()
         setupBaseLayer()
+//        launchFire()
         launchFireworks()
     }
     
@@ -85,5 +86,21 @@ class ViewController: UIViewController
         // Add baseCell to the emitter layer
         emitterLayer.emitterCells = [baseCell]
     }
+    
+//    func launchFire()
+//    {
+//        // Create particle animating like fire
+//        let fireCell = CAEmitterCell()
+//        fireCell.contents = UIImage(named: "particle")?.cgImage
+//        fireCell.emissionLongitude = CGFloat.pi*2
+//        fireCell.emissionRange = CGFloat.pi*2
+//        fireCell.birthRate = 800
+//        fireCell.lifetimeRange = 1.2
+//        fireCell.velocity = 240
+//        fireCell.color = UIColor(red: 0.89, green: 0.56, blue: 0.36, alpha: 0.5).cgColor
+//        
+//        // Add particle on the emitter layer
+//        emitterLayer.emitterCells = [fireCell]
+//    }
 }
 
