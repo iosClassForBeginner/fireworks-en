@@ -44,10 +44,9 @@ http://ios-class-for-beginner.esy.es/
 > <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/fireworks-en/blob/master/samples/2.gif" /></div></details>
 
 > 2-1. Drap & Drop "UIImageView"
-> <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/fireworks-en/blob/master/samples/2.gif" /></div></details>
+> <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/fireworks-en/blob/master/samples/3.gif" /></div></details>
 
 > 2-2. Resize "UIImageView". After that, set "Autoresizing" for adjusting frame depending on devices
-> <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/fireworks-en/blob/master/samples/3.gif" /></div></details>
 > <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/fireworks-en/blob/master/samples/4.gif" /></div></details>
 > <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/fireworks-en/blob/master/samples/5.gif" /></div></details>
 > <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/fireworks-en/blob/master/samples/6.gif" /></div></details>
