@@ -34,6 +34,7 @@ http://ios-class-for-beginner.esy.es/
 <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/fireworks-en/blob/master/samples/0.gif" /></div>
 </details>
 ・<a href="https://www.flaticon.com/free-icon/filled-circle_60765#term=circle&page=2&position=32">Particle</a>
+
 ・<a href="https://www.flaticon.com/free-icon/firework_439597#term=firework&page=2&position=32">Fireworks</a> (Optional)
 
 ## 2, Design your app (Optional)
@@ -52,8 +53,11 @@ http://ios-class-for-beginner.esy.es/
 > <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/fireworks-en/blob/master/samples/6.gif" /></div></details>
 
 ## 3, Add code blocks in ViewController.swift
-#### 🗂 ViewController.swift  
-> ★ It's preferable to write following code yourself. It will help you to understand code more.
+#### 🗂 ViewController.swift
+
+Documentation 
+・<a href="https://developer.apple.com/documentation/quartzcore/caemitterlayer">CAEmitterLayer</a> 
+・<a href="https://developer.apple.com/documentation/quartzcore/caemittercell">CAEmitterCell</a>
 
 ```Swift  
 import UIKit
