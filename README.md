@@ -17,7 +17,7 @@ http://ios-class-for-beginner.esy.es/
 ## Development Environment
   Xcode 8.3.2 / Swift 3
   
-  <a href="  https://github.com/learn-co-students/reading-ios-intro-to-xcode-qa-public-001">What is Xcode?</a>
+  <a href="https://github.com/learn-co-students/reading-ios-intro-to-xcode-qa-public-001">What is Xcode?</a>
 
 # Full procedure
 ## 0, Create your project
