@@ -134,7 +134,7 @@ class ViewController: UIViewController
         sparkCell.alphaSpeed = -0.1
         sparkCell.scaleSpeed = -0.1
         
-        // baseCell contains rising and spark particle with animation
+        // baseCell contains rising and spark particle
         baseCell.emitterCells = [risingCell, sparkCell]
         
         // Add baseCell to the emitter layer
